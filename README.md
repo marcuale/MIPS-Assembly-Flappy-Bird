@@ -16,3 +16,5 @@ Bitmap Display Configuration:
  - Display height in pixels: 256
  - Base Address for Display: 0x10008000 ($gp)
   
+
+Made in collaboration with Colt Ma
